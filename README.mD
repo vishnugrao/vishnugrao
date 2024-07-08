@@ -27,8 +27,8 @@ Hello! I'm Vishnu, a passionate software engineer with a strong interest in algo
 
 ### Skills
 
-- **Languages**: C, Java, Python, JavaScript/TypeScript, HTML/CSS, LATEX, SQL, Assembly (AVR Architecture)
-- **Tools**: Git/GitHub, Unix Shell, Node.js, VS Code, IntelliJ IDEA, Atom, Helix, MATLAB, PyTorch
+- **Languages**: C++, R, C, Java, Python, JavaScript/TypeScript, HTML/CSS, LATEX, SQL, Assembly (AVR Architecture)
+- **Tools**: Langchain, Langsmith, Ragatouille, Git/GitHub, Unix Shell, Node.js, VS Code, IntelliJ IDEA, Atom, Helix, MATLAB, PyTorch
 - **Current Stack**: Sveltekit (Typescript, HTML, CSS), Firebase, Vercel
 - **Transferable Skills**: Teamwork, Leadership, Interdisciplinary Engineering, Creativity, Critical Thinking
 
