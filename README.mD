@@ -1,4 +1,4 @@
-# Vishnu G. Rao
+# Vishnu Rao
 
 ## Welcome to My GitHub Profile!
 
