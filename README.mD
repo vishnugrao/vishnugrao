@@ -34,9 +34,8 @@ Hello! I'm Vishnu, a passionate software engineer with a strong interest in algo
 
 ### Get in Touch
 
-- 📧 [Email](mailto:vishnugrao14@gmail.com)
+- 📧 [Email](mailto:v3545r@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vishnu-rao-a30442237/)
-- 🖥️ [Personal Website](https://yourwebsite.com)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
