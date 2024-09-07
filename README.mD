@@ -22,7 +22,6 @@ Hello! I'm Vishnu, a passionate software engineer with a strong interest in algo
 ### Projects
 
 - **[ThymeLake QR Code Queuing and Notification System](https://github.com/vishnugrao/)**: Enhancing customer experience with an efficient queuing and notification system.
-- **[CenteredWellness](https://github.com/vishnugrao/CenteredWellness)**: A professional website for therapy and counseling services using SvelteKit, Firebase, HTML, TypeScript, and CSS.
 - **[AST to Bag of Words Bi-LSTM Network for Software Vulnerability Detection](https://github.com/vishnugrao/AST-CBoW-Bi-CS)**: Implementing a Bi-LSTM network to improve software vulnerability detection capabilities.
 
 ### Skills
