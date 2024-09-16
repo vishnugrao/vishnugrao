@@ -6,7 +6,7 @@ Hello! I'm Vishnu, a passionate software engineer with a strong interest in algo
 
 ### About Me
 
-- 🌟 **Current Position**: Intern at The Modern Data Company.
+- 🌟 **Current Position**: SWE @ Stealth.
 - 🚀 **Upcoming Internships**: Amadeus and McGrathNicol.
 - 🧑‍💼 **Past Experience**: Worked at Effision Australia in the Research and Development Team.
 - 🏅 **Awards**: Microsoft Research Asia Senior Software Development Project Award, Australian UniSport Judo Nationals Team Gold, Engineers Without Borders Design-a-thon 1st Place.
