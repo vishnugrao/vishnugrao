@@ -13,7 +13,7 @@ Hello! I'm Vishnu, a passionate software engineer with a strong interest in algo
 
 ### GitHub Stats
 
-[![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnugrao)](https://github.com/anuraghazra/github-readme-stats)
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnugrao)](https://github.com/anuraghazra/github-readme-stats)
 
 ### LeetCode Stats
 
