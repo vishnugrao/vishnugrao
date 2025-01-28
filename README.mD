@@ -32,8 +32,8 @@ Hello! I'm Vishnu, a passionate software engineer with a strong interest in stat
 
 ### Get in Touch
 
-- 📧 [Email](mailto:v3545r@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishnu-rao-a30442237/)
+- 📧 [Email](mailto:vishnugrao14@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishnugrao/)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
