@@ -2,12 +2,11 @@
 
 ## Welcome to My GitHub Profile!
 
-Hello! I'm Vishnu, a passionate software engineer with a strong interest in algorithms, data structures, computational geometry, AI, and machine learning. 
+Hello! I'm Vishnu, a passionate software engineer with a strong interest in statistics.
 
 ### About Me
 
 - 🌟 **Current Position**: Founding Engineer @ Stealth
-- 🚀 **Upcoming Internships**: McGrathNicol.
 - 🧑‍💼 **Past Experience**: Worked at Effision Australia in the Research and Development Team, SWE Intern @ Amadeus.
 - 🏅 **Awards**: Microsoft Research Asia Senior Software Development Project Award, Australian UniSport Judo Nationals Team Gold, Engineers Without Borders Design-a-thon 1st Place.
 
