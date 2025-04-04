@@ -2,12 +2,12 @@
 
 ## Welcome to My GitHub Profile!
 
-Hello! I'm Vishnu, a passionate software engineer with a strong interest in statistics.
+Hello! I'm Vishnu, a passionate software engineer with a strong interest in statistics. At the moment, I am grinding leetcode and working on something that might change the way we all interact with AI (It is not a GPT wrapper lol, it does not even use any LLM APIs) :D. I am interested in collaborators for this project, please feel free to reach out through my email listed below.
 
 ### About Me
 
-- 🌟 **Current Position**: Founding Engineer @ Stealth
-- 🧑‍💼 **Past Experience**: Worked at Effision Australia in the Research and Development Team, SWE Intern @ Amadeus.
+- 🌟 **Current Position**: Mystery WIP Project
+- 🧑‍💼 **Past Experience**: Worked at Effision Australia in the Research and Development Team, SWE Intern @ Amadeus, Founding Engineer @ Slipbox AI
 - 🏅 **Awards**: Microsoft Research Asia Senior Software Development Project Award, Australian UniSport Judo Nationals Team Gold, Engineers Without Borders Design-a-thon 1st Place.
 
 ### LeetCode Stats
