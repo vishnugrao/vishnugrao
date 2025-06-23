@@ -6,7 +6,7 @@ Hello! I'm Vishnu, a passionate software engineer with a strong interest in stat
 
 ### About Me
 
-- 🌟 **Current Position**: Mystery WIP Project
+- 🌟 **Current Position**: MLE @ ColorTokens
 - 🧑‍💼 **Past Experience**: Worked at Effision Australia in the Research and Development Team, SWE Intern @ Amadeus, Founding Engineer @ Slipbox AI
 - 🏅 **Awards**: Microsoft Research Asia Senior Software Development Project Award, Australian UniSport Judo Nationals Team Gold, Engineers Without Borders Design-a-thon 1st Place.
 
