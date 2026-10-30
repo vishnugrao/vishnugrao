@@ -1,6 +1,6 @@
 # Vishnu Rao
 
-AI Engineer building autonomous security agents at ColorTokens. Previously founding engineer at Slipbox AI, SWE intern at Amadeus and The Modern Data Company. Honours graduate from the University of Sydney (Distinction WAM).
+Software Engineer at Mesh. Previously AI Engineer at Colortokens, Inc., founding engineer at Slipbox AI, SWE intern at Amadeus and The Modern Data Company. Honours graduate from the University of Sydney (Distinction WAM).
 
 ### What I Work On
 - Production AI agents with MCP, LangChain, LlamaIndex, LangGraph, and Postgres/Milvus backends
